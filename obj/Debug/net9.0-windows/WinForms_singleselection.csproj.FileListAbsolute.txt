@@ -1,0 +1,16 @@
+C:\consoleApp\WinForms_singleselection\bin\Debug\net9.0-windows\WinForms_singleselection.exe
+C:\consoleApp\WinForms_singleselection\bin\Debug\net9.0-windows\WinForms_singleselection.deps.json
+C:\consoleApp\WinForms_singleselection\bin\Debug\net9.0-windows\WinForms_singleselection.runtimeconfig.json
+C:\consoleApp\WinForms_singleselection\bin\Debug\net9.0-windows\WinForms_singleselection.dll
+C:\consoleApp\WinForms_singleselection\bin\Debug\net9.0-windows\WinForms_singleselection.pdb
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.Form1.resources
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.csproj.GenerateResource.cache
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.GeneratedMSBuildEditorConfig.editorconfig
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.AssemblyInfoInputs.cache
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.AssemblyInfo.cs
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.csproj.CoreCompileInputs.cache
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.dll
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\refint\WinForms_singleselection.dll
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.pdb
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.genruntimeconfig.cache
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\ref\WinForms_singleselection.dll
