@@ -173,10 +173,15 @@ namespace WinForms_singleselection
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void lblFeedback_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
         {
 
         }

@@ -14,3 +14,7 @@ C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\refint\WinForms_
 C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.pdb
 C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.genruntimeconfig.cache
 C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\ref\WinForms_singleselection.dll
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.Form2.resources
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.sourcelink.json
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.Form3.resources
+C:\consoleApp\WinForms_singleselection\obj\Debug\net9.0-windows\WinForms_singleselection.Form4.resources

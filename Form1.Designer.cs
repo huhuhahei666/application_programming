@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             label1 = new Label();
             groupBox1 = new GroupBox();
             rad1_2 = new RadioButton();
@@ -40,6 +41,9 @@
             lblFeedback = new Label();
             lblProgress = new Label();
             lblScore = new Label();
+            lbltime = new Label();
+            timer1 = new System.Windows.Forms.Timer(components);
+            progressBar1 = new ProgressBar();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
@@ -188,11 +192,34 @@
             lblScore.TabIndex = 8;
             lblScore.Text = "得分";
             // 
+            // lbltime
+            // 
+            lbltime.AutoSize = true;
+            lbltime.Font = new Font("Microsoft YaHei UI", 10.5F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lbltime.Location = new Point(1056, 564);
+            lbltime.Name = "lbltime";
+            lbltime.Size = new Size(101, 37);
+            lbltime.TabIndex = 9;
+            lbltime.Text = "倒计时";
+            // 
+            // timer1
+            // 
+            timer1.Tick += timer1_Tick;
+            // 
+            // progressBar1
+            // 
+            progressBar1.Location = new Point(1056, 615);
+            progressBar1.Name = "progressBar1";
+            progressBar1.Size = new Size(200, 46);
+            progressBar1.TabIndex = 10;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(14F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1992, 921);
+            Controls.Add(progressBar1);
+            Controls.Add(lbltime);
             Controls.Add(lblScore);
             Controls.Add(lblProgress);
             Controls.Add(lblFeedback);
@@ -222,5 +249,8 @@
         private Label lblFeedback;
         private Label lblProgress;
         private Label lblScore;
+        private Label lbltime;
+        private System.Windows.Forms.Timer timer1;
+        private ProgressBar progressBar1;
     }
 }
