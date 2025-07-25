@@ -13,5 +13,47 @@
     <Compile Update="Form4.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FormAI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPersonalCenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDouban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLeetCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSegment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSpider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSpiderEcnu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSpiderLeetCode2.0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSpiderQqmusic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTagSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_folderBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

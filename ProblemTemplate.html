@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 15px;
+        }
+
+        h1 {
+            color: #333;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+
+        .difficulty-easy {
+            color: green;
+        }
+
+        .difficulty-medium {
+            color: orange;
+        }
+
+        .difficulty-hard {
+            color: red;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #eee;
+            padding: 2px 8px;
+            margin: 2px;
+            border-radius: 3px;
+        }
+
+        .content {
+            line-height: 1.6;
+        }
+
+        pre {
+            background: #f5f5f5;
+            padding: 10px;
+            border-radius: 3px;
+            overflow-x: auto;
+        }
+
+        img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>{{Title}} <span class="difficulty-{{DifficultyClass}}">({{Difficulty}})</span></h1>
+    <div>通过率: {{Acceptance}}</div>
+    <div>
+        <strong>标签: </strong>
+        {{#Tags}}{{.}}{{/Tags}}
+    </div>
+    <hr>
+    <div class="content">
+        {{{Content}}}
+    </div>
+</body>
+</html>

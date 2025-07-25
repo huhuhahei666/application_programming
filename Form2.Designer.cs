@@ -48,6 +48,9 @@
             label5 = new Label();
             pictureBox1 = new PictureBox();
             button3 = new Button();
+            colorDialog1 = new ColorDialog();
+            button4 = new Button();
+            folderBrowserDialog1 = new FolderBrowserDialog();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -155,6 +158,7 @@
             comboBoxCity.Name = "comboBoxCity";
             comboBoxCity.Size = new Size(242, 39);
             comboBoxCity.TabIndex = 10;
+            comboBoxCity.SelectedIndexChanged += comboBoxCity_SelectedIndexChanged;
             // 
             // comboBoxDistrict
             // 
@@ -171,6 +175,7 @@
             comboBoxProvince.Name = "comboBoxProvince";
             comboBoxProvince.Size = new Size(242, 39);
             comboBoxProvince.TabIndex = 12;
+            comboBoxProvince.SelectedIndexChanged += comboBoxProvince_SelectedIndexChanged;
             // 
             // lable3
             // 
@@ -218,11 +223,22 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // button4
+            // 
+            button4.Location = new Point(706, 688);
+            button4.Name = "button4";
+            button4.Size = new Size(150, 46);
+            button4.TabIndex = 18;
+            button4.Text = "调背景色";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(14F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1977, 812);
+            Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(pictureBox1);
             Controls.Add(label5);
@@ -268,5 +284,8 @@
         private Label label5;
         private PictureBox pictureBox1;
         private Button button3;
+        private ColorDialog colorDialog1;
+        private Button button4;
+        private FolderBrowserDialog folderBrowserDialog1;
     }
 }

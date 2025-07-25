@@ -3,36 +3,212 @@
   "WorkspaceRootPath": "C:\\consoleApp\\WinForms_singleselection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formspiderleetcode2.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspiderleetcode2.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formspiderleetcode2.0.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspiderleetcode2.0.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\sqlhelper2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:sqlhelper2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formtagselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formtagselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formpersonalcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formpersonalcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formspiderqqmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspiderqqmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formpersonalcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formpersonalcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formspiderleetcode2.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspiderleetcode2.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formpersonalcenter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formpersonalcenter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formtagselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formtagselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\controlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:controlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\winforms_singleselection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:winforms_singleselection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\frmsql.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:frmsql.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formleetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formleetcode.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formleetcode.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\problemtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:problemtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formspiderqqmusic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspiderqqmusic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formspiderecnu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspiderecnu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formdouban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formdouban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formdouban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formdouban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formspiderecnu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspiderecnu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formspiderqqmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspiderqqmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formspider.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspider.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\formspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\form_folderbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form_folderbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|C:\\consoleApp\\WinForms_singleselection\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F35ACB3-370C-48ED-B706-3762447EB8CB}|WinForms_singleselection.csproj|c:\\consoleapp\\winforms_singleselection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,123 +222,635 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T02:06:01.522Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form3.cs",
-              "RelativeToolTip": "Form3.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAgwJwAAAANAAAAAAAAAA==",
+              "Title": "FormAI.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormAI.cs",
+              "RelativeDocumentMoniker": "FormAI.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormAI.cs",
+              "RelativeToolTip": "FormAI.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAkwDsBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T06:35:05.522Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form4.cs",
-              "RelativeDocumentMoniker": "Form4.cs",
-              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form4.cs*",
-              "RelativeToolTip": "Form4.cs*",
-              "ViewState": "AgIAAG4AAAAAAABkEUIdwCoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T07:41:31.021Z",
+              "WhenOpened": "2025-07-18T09:36:49.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form4.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form4.cs",
-              "RelativeDocumentMoniker": "Form4.cs",
-              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form4.cs [\u8BBE\u8BA1]*",
-              "RelativeToolTip": "Form4.cs [\u8BBE\u8BA1]*",
+              "Title": "FormSpiderLeetCode2.0.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderLeetCode2.0.cs",
+              "RelativeDocumentMoniker": "FormSpiderLeetCode2.0.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderLeetCode2.0.cs",
+              "RelativeToolTip": "FormSpiderLeetCode2.0.cs",
+              "ViewState": "AgIAAOMAAAAAAAAmlDYqwPsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T07:38:50.48Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form3.Designer.cs",
-              "RelativeDocumentMoniker": "Form3.Designer.cs",
-              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form3.Designer.cs",
-              "RelativeToolTip": "Form3.Designer.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAASwFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T07:32:59.516Z",
+              "WhenOpened": "2025-07-07T06:52:48.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLHelper2.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\SQLHelper2.cs",
+              "RelativeDocumentMoniker": "SQLHelper2.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\SQLHelper2.cs",
+              "RelativeToolTip": "SQLHelper2.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:57:01.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSpiderLeetCode2.0.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderLeetCode2.0.Designer.cs",
+              "RelativeDocumentMoniker": "FormSpiderLeetCode2.0.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderLeetCode2.0.Designer.cs",
+              "RelativeToolTip": "FormSpiderLeetCode2.0.Designer.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAIwEABAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:10:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPersonalCenter.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormPersonalCenter.cs",
+              "RelativeDocumentMoniker": "FormPersonalCenter.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormPersonalCenter.cs",
+              "RelativeToolTip": "FormPersonalCenter.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:03:44.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAI.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormAI.cs",
+              "RelativeDocumentMoniker": "FormAI.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormAI.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormAI.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:33:27.853Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FormTagSelection.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormTagSelection.cs",
+              "RelativeDocumentMoniker": "FormTagSelection.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormTagSelection.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormTagSelection.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:50:04.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormPersonalCenter.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormPersonalCenter.cs",
+              "RelativeDocumentMoniker": "FormPersonalCenter.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormPersonalCenter.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormPersonalCenter.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:53:27.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormSpiderQqmusic.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderQqmusic.cs",
+              "RelativeDocumentMoniker": "FormSpiderQqmusic.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderQqmusic.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormSpiderQqmusic.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:55:22.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormRegister.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormRegister.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormRegister.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:23:24.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLogin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormLogin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:14:59.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormSpiderLeetCode2.0.cs [Design]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderLeetCode2.0.cs",
+              "RelativeDocumentMoniker": "FormSpiderLeetCode2.0.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderLeetCode2.0.cs [Design]",
+              "RelativeToolTip": "FormSpiderLeetCode2.0.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:50:09.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormPersonalCenter.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormPersonalCenter.Designer.cs",
+              "RelativeDocumentMoniker": "FormPersonalCenter.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormPersonalCenter.Designer.cs",
+              "RelativeToolTip": "FormPersonalCenter.Designer.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAIwOgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T05:44:41.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormTagSelection.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormTagSelection.cs",
+              "RelativeDocumentMoniker": "FormTagSelection.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormTagSelection.cs",
+              "RelativeToolTip": "FormTagSelection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:53:39.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormRegister.cs",
+              "RelativeToolTip": "FormRegister.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAMwHIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:23:44.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormLogin.cs",
+              "RelativeToolTip": "FormLogin.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAD4v2EAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:16:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ControlExtensions.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\ControlExtensions.cs",
+              "RelativeDocumentMoniker": "ControlExtensions.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\ControlExtensions.cs",
+              "RelativeToolTip": "ControlExtensions.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:15:23.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLHelper.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\SQLHelper.cs",
+              "RelativeDocumentMoniker": "SQLHelper.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\SQLHelper.cs",
+              "RelativeToolTip": "SQLHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:20:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:06:01.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-09T01:27:08.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfigHelper.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\ConfigHelper.cs",
+              "RelativeDocumentMoniker": "ConfigHelper.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\ConfigHelper.cs",
+              "RelativeToolTip": "ConfigHelper.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:32:13.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAiwKgAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T01:50:00.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
+              "Title": "FormLeetCode.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormLeetCode.cs",
+              "RelativeDocumentMoniker": "FormLeetCode.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormLeetCode.cs",
+              "RelativeToolTip": "FormLeetCode.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAADgv6UBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:12:13.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WinForms_singleselection.csproj",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\WinForms_singleselection.csproj",
+              "RelativeDocumentMoniker": "WinForms_singleselection.csproj",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\WinForms_singleselection.csproj",
+              "RelativeToolTip": "WinForms_singleselection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T05:44:58.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmLogin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FrmLogin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FrmLogin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:04:48.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FrmLogin.cs",
+              "RelativeToolTip": "FrmLogin.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:11:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "EmailHelper.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\EmailHelper.cs",
+              "RelativeToolTip": "EmailHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABIwB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:23:22.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "FrmLogin.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "FrmLogin.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:45:11.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmSQL.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FrmSQL.Designer.cs",
+              "RelativeDocumentMoniker": "FrmSQL.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FrmSQL.Designer.cs",
+              "RelativeToolTip": "FrmSQL.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:17:26.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormLeetCode.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormLeetCode.cs",
+              "RelativeDocumentMoniker": "FormLeetCode.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormLeetCode.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLeetCode.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:06:54.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormSegment.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSegment.cs",
+              "RelativeDocumentMoniker": "FormSegment.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSegment.cs",
+              "RelativeToolTip": "FormSegment.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwEwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T03:18:31.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormSegment.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSegment.cs",
+              "RelativeDocumentMoniker": "FormSegment.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSegment.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormSegment.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:26:27.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADgvy4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:50:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:48:17.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormDouban.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormDouban.cs",
+              "RelativeDocumentMoniker": "FormDouban.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormDouban.cs",
+              "RelativeToolTip": "FormDouban.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAgwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:20:55.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormLeetCode.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormLeetCode.Designer.cs",
+              "RelativeDocumentMoniker": "FormLeetCode.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormLeetCode.Designer.cs",
+              "RelativeToolTip": "FormLeetCode.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:23:01.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProblemTemplate.html",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\ProblemTemplate.html",
+              "RelativeDocumentMoniker": "ProblemTemplate.html",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\ProblemTemplate.html",
+              "RelativeToolTip": "ProblemTemplate.html",
+              "ViewState": "AgIAAA0AAAAAAAAAAABmwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-04T08:17:45.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormSpiderQqmusic.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderQqmusic.Designer.cs",
+              "RelativeDocumentMoniker": "FormSpiderQqmusic.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderQqmusic.Designer.cs",
+              "RelativeToolTip": "FormSpiderQqmusic.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:15:24.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormSpiderEcnu.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderEcnu.cs",
+              "RelativeDocumentMoniker": "FormSpiderEcnu.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderEcnu.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormSpiderEcnu.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:34:56.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormDouban.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormDouban.cs",
+              "RelativeDocumentMoniker": "FormDouban.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormDouban.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormDouban.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:11:26.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormSpiderQqmusic.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderQqmusic.cs",
+              "RelativeDocumentMoniker": "FormSpiderQqmusic.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderQqmusic.cs",
+              "RelativeToolTip": "FormSpiderQqmusic.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAjwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:03:47.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormSpiderEcnu.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderEcnu.cs",
+              "RelativeDocumentMoniker": "FormSpiderEcnu.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpiderEcnu.cs",
+              "RelativeToolTip": "FormSpiderEcnu.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAmwP8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:36:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormSpider.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpider.Designer.cs",
+              "RelativeDocumentMoniker": "FormSpider.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpider.Designer.cs",
+              "RelativeToolTip": "FormSpider.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:04:29.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormSpider.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpider.cs",
+              "RelativeDocumentMoniker": "FormSpider.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpider.cs",
+              "RelativeToolTip": "FormSpider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:27:56.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormSpider.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormSpider.cs",
+              "RelativeDocumentMoniker": "FormSpider.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormSpider.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormSpider.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:04:28.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Form_folderBrowser.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form_folderBrowser.cs",
+              "RelativeDocumentMoniker": "Form_folderBrowser.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form_folderBrowser.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form_folderBrowser.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T02:45:07.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:41:31.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Form3.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form3.Designer.cs",
+              "RelativeToolTip": "Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:32:59.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "Form2.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form2.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Form2.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T01:48:41.808Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-07-02T01:48:41.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 47,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "FormMain.Designer.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\FormMain.Designer.cs",
+              "RelativeToolTip": "FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:55:01.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T03:33:50.059Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-07-01T03:33:50.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 51,
+              "Title": "Form4.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form4.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form4.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:38:50.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\consoleApp\\WinForms_singleselection\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\consoleApp\\WinForms_singleselection\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAIAwwLkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKkAAAAAAAAAAADgv7kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T03:38:47.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T03:38:47.212Z"
             }
           ]
         }

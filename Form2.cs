@@ -168,6 +168,12 @@ namespace WinForms_singleselection
         {
             pictureBox1.Image = Image.FromFile("C:/consoleApp/images/爱的迫降1.jpg");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            colorDialog1.ShowDialog();
+            this.BackColor = colorDialog1.Color; // 设置窗体背景色为选中的颜色
+        }
     }
     public class Province
     {
